@@ -1,0 +1,39 @@
+html{
+  box-sizing: border-box;
+-moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+
+  font-family: sans-serif;
+}
+
+*,*::before, *::after {
+  box-sizing:inherit;
+}
+
+body{
+  margin: 0;
+}
+
+.first{
+  background-color: #154475;
+  width: 100%;
+}
+
+.first-2-2{
+  width: 100%;
+  background-color: #154475;
+}
+
+.second{
+
+}
+
+.third{
+
+}
+
+.fourth{
+
+}
