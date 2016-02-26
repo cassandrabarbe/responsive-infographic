@@ -16,14 +16,20 @@ body{
   margin: 0;
 }
 
-.first{
-  background-color: #154475;
+.unit{
   width: 100%;
 }
 
-.first-2-2{
-  width: 100%;
+.first{
   background-color: #154475;
+  width: 100%;
+
+}
+
+.first-2-2{
+  background-color: #154475;
+  width: 100%;
+
 }
 
 .second{
@@ -32,9 +38,9 @@ body{
 }
 
 .third{
-
+  width: 100%;
 }
 
 .fourth{
-
+  width: 100%;
 }
