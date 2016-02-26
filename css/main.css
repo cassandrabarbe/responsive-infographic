@@ -16,6 +16,10 @@ body{
   margin: 0;
 }
 
+h1{
+  text-align: center;
+}
+
 .unit{
   width: 100%;
 }
@@ -39,8 +43,12 @@ body{
 
 .third{
   width: 100%;
+  background-color: #154475;
+  margin: 0;
 }
 
 .fourth{
   width: 100%;
+  background-color: #0292ca;
+  padding: 1em;
 }
