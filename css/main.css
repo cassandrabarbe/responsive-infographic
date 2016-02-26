@@ -1,6 +1,6 @@
-html{
+html {
   box-sizing: border-box;
--moz-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
@@ -8,15 +8,15 @@ html{
   font-family: sans-serif;
 }
 
-*,*::before, *::after {
-  box-sizing:inherit;
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
 }
 
-h1{
+h1 {
   text-align: center;
   font-size: 3em;
 }
