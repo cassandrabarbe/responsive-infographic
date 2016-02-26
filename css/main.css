@@ -19,36 +19,3 @@ body{
 h1{
   text-align: center;
 }
-
-.unit{
-  width: 100%;
-}
-
-.first{
-  background-color: #154475;
-  width: 100%;
-
-}
-
-.first-2-2{
-  background-color: #154475;
-  width: 100%;
-
-}
-
-.second{
-  width: 100%;
-  background-color: #b5b5ba;
-}
-
-.third{
-  width: 100%;
-  background-color: #154475;
-  margin: 0;
-}
-
-.fourth{
-  width: 100%;
-  background-color: #0292ca;
-  padding: 1em;
-}
